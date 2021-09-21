@@ -8,8 +8,10 @@ Este es el proyecto de la materia introducción a la ingeniería de Sistemas
 
 > “I think everybody in this country should learn how to program a computer because it teaches you how to think.” - Steve Jobs
 
- 	``
+``
   while(true)
   {
   }
-  ``
+``
+
+``Use `code` in your Markdown file.``
